@@ -1,35 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🧑‍💻 Personal Portfolio Website  
+🔗 **Live Site:** [https://www.codingwithfirat.com](https://www.codingwithfirat.com)
 
-## Getting Started
+This repository contains a **personal portfolio website** created for the software developer **Fırat ŞABAHAT**. Built using **React**, **Next.js**, and **Tailwind CSS**, the site showcases Fırat’s projects, skills, and social presence through a modern, responsive, and stylish interface.
 
-First, run the development server:
+The website also includes animated UI features, light/dark theme switching, and dynamic project data fetched from **Hygraph CMS** using **GraphQL**.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Features
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- Toggleable light/dark theme  
+- Typing animation for job titles  
+- Social links (GitHub, LinkedIn, Twitter)  
+- Project list fetched via GraphQL from Hygraph  
+- SEO-friendly with title and meta tags  
+- Fully responsive on all devices  
+- Deployed seamlessly using Vercel  
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+---
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 🛠️ Technologies Used
 
-## Learn More
+- React  
+- Next.js  
+- Tailwind CSS  
+- Framer Motion  
+- Hygraph (GraphQL CMS)  
+- Vercel  
+- Typewriter.js  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🌐 Live Demo
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+👉 [https://www.codingwithfirat.com](https://www.codingwithfirat.com)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📸 Screenshot
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# Portfolio
+![Portfolio](https://github.com/user-attachments/assets/520ae61b-1611-48b1-858e-5058e635bd69)
+
+
+---
+
+## 📝 Project Purpose
+
+This project aims to provide a fast and minimalistic portfolio site that reflects both frontend and backend capabilities of the developer. It also serves as a reference project to demonstrate Next.js and CMS integration.
+
+---
+
+## 📩 Contact
+
+For questions or suggestions, feel free to reach out:
+
+📧 **fratsbht@icloud.com**
